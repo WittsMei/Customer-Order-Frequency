@@ -31,6 +31,7 @@ WITH at_least_100_id_June AS (
     GROUP BY customer_id
     HAVING spent >= 100
 ),
+
 at_least_100_id_July AS (
 
     SELECT customer_id, 
