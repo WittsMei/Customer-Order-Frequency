@@ -14,7 +14,9 @@ The result format is in the following example.
 <img width="691" alt="Screenshot 2024-08-20 at 14 03 43" src="https://github.com/user-attachments/assets/ab42a4e6-6b80-4486-bb3f-172c00e019c8">
 
 
-Solution:
+
+
+## Solution:
 
 <img width="627" alt="Screenshot 2024-08-20 at 14 08 58" src="https://github.com/user-attachments/assets/98d0c521-5177-4896-b6b5-836406db2934">
 
