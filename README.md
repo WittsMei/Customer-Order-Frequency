@@ -16,13 +16,18 @@ The result format is in the following example.
 
 Solution:
 
+<img width="627" alt="Screenshot 2024-08-20 at 14 08 58" src="https://github.com/user-attachments/assets/98d0c521-5177-4896-b6b5-836406db2934">
+
+
+
 WITH at_least_100_id_June AS (
     SELECT customer_id, 
            SUM(price * quantity) AS spent
     FROM Orders
     LEFT JOIN Product
     ON Orders.product_id = Product.product_id
-    WHERE MONTH(order_date) = 6 AND YEAR(order_date) = 2020
+    WHERE MONTH(order_date) = 6 AND YEAR(order_date) = 2020<img width="627" alt="Screenshot 2024-08-20 at 14 08 58" src="https://github.com/user-attachments/assets/98d0c521-5177-4896-b6b5-836406db2934">
+
     GROUP BY customer_id
     HAVING spent >= 100
 ),
