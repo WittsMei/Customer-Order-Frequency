@@ -1,13 +1,13 @@
 # SQL-problem-Customer-Order-Frequency
 
-
+## Problem
 <img width="616" alt="Screenshot 2024-08-20 at 14 01 56" src="https://github.com/user-attachments/assets/87bbe1c5-194f-4422-8e10-cc4ae1fd8373">
 
 
 <img width="720" alt="Screenshot 2024-08-20 at 14 02 43" src="https://github.com/user-attachments/assets/d3df63b3-073a-4de7-ab8b-66bb070af76c">
 
 
-The result format is in the following example.
+## Example
 
 <img width="632" alt="Screenshot 2024-08-20 at 14 03 17" src="https://github.com/user-attachments/assets/7c35fa0a-4444-4f41-ab39-17b1a54ba2b8">
 
@@ -16,7 +16,7 @@ The result format is in the following example.
 
 
 
-## Solution:
+## Solution
 
 <img width="627" alt="Screenshot 2024-08-20 at 14 08 58" src="https://github.com/user-attachments/assets/98d0c521-5177-4896-b6b5-836406db2934">
 
